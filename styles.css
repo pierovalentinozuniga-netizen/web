@@ -1,0 +1,29 @@
+#titulo-rojo{
+    color:red;
+  }
+ #subtitulo-verde{
+  color:green;
+ }
+ #subtitulo-azul{
+  color:blue;
+ }
+ div { 
+  width:auto;
+  height: auto;
+  background-color: cadetblue;
+ }
+.texto-arial{
+  font-family: arial;
+}
+.lista2 li::marker {
+  color: #007bff;
+  content: "★ "; /* cambia el marcador */
+  font-size: 18px;
+}
+body {
+  background-image: url(zapateria\ 4.jpg);
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  background-position: center; 
+  background-attachment: fixed;
+}

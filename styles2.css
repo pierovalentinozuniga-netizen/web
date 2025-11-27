@@ -1,0 +1,19 @@
+.lista1 li::marker {
+    color: #007bff;
+    content: "⭐ "; /* cambia el marcador */
+    font-size: 18px;
+  }
+  #titulo-naranja{
+    color:orange;
+  }
+ #titulo-morado{
+  color:purple;
+ }
+ #titulo-azul{
+  color:blue;
+ }
+ div { 
+  width:auto;
+  height: auto;
+  background-color: rgb(160, 95, 153);
+ }

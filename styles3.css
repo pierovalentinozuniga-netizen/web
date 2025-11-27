@@ -1,0 +1,19 @@
+#titulo-amarillo{
+    color:yellow;
+  }
+ #titulo-marron{
+  color:brown;
+ }
+ #titulo-rosa{
+  color:pink;
+ }
+ div { 
+    width:auto;
+    height: auto;
+    background-color: rgb(95, 150, 160);
+   }
+   .lista3 li::marker {
+    color: #007bff;
+    content: "🌈 "; /* cambia el marcador */
+    font-size: 18px;
+  }
